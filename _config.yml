@@ -85,7 +85,7 @@ preload_comment: true
 ## false: 当点击评论条等区域时再加载评论模块
 ## false: load comment's section until u click/hover on the bar/icon
 
-show_count: false
+show_count: true
 ## 是否在主页文章标题旁显示评论数（多说、Disqus）
 ## Add comment count after article title
 
@@ -190,7 +190,7 @@ friends:
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 我是web前端工程师。热爱web前端，爱折腾，爱学习，爱交流，爱分享。我的理想是为社区贡献更多的代码。
+aboutme: 我是 web 前端工程师。热爱 web 前端，爱折腾，爱学习，爱交流，爱分享。我的理想是为社区贡献更多的代码。
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
@@ -222,7 +222,7 @@ ie_updater:
 
 # Tab Title Change | 标签页标题切换
 tab_title_change:
-  on: false
+  on: true
   left_tab_title: '(つェ⊂) 我藏好了哦~ '
   return_tab_title: '(*´∇｀*) 被你发现啦~ '
 
